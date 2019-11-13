@@ -9,4 +9,4 @@ ever wanted to use a super secure password but never had the time to memorize it
 * recursive functions
 
 ## note:
-if you want to run this locally i have included an ipynb notebook, but you'll have to merge all cells and run it idle or your favorite IDE for it to work properly. jupyter notebook does some weird things with output, so that's why you can't just run it directly.
+if you want to run this locally i have py file, to run just use this command in terminal or cmd: "python3 /path/to/main.py"
